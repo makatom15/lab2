@@ -40,3 +40,4 @@ class GermanShepherd(Dog):
 copy1 = Dog("character", "spotted")
 copy2 = Labrador("character", "spotted", 16)
 copy3 = GermanShepherd()
+big_dog = GermanShepherd()
